@@ -1,0 +1,13 @@
+Package: sandersonRatings
+Title: A Book Recommendation System
+Version: 0.1.0
+Authors@R: c(person("Salma Rahmouni", email = "salmarahmouni123@gmail.com", role = c("aut", "cre")))
+Description: Tools to recommend books based on similarity and popularity.
+License: GNU
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
+Imports:
+    dplyr,
+    proxy
+    ggplot2
